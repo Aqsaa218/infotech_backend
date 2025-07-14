@@ -2,3 +2,4 @@ Flask
 Flask_SQLAlchemy
 Flask_CORS
 Werkzeug
+flask_migrate
