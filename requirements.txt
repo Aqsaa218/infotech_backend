@@ -4,3 +4,4 @@ Flask_CORS
 Werkzeug
 flask_migrate
 gunicorn
+Flask-Mail
